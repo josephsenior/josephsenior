@@ -1,165 +1,198 @@
-# Hi, I'm [Youssef] 👋
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-**AI Agent Engineer | LLM Systems Developer | Production AI Specialist**
+<h3 align="center">AI Agent Engineer | LLM Systems Developer | Production AI Specialist</h3>
 
-Building production-ready AI agent systems with a focus on observability, testing, and real-world applications.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+</div>
 
-## 🚀 Featured Projects
+###
 
-### 🔍 [Code Review Agent](https://github.com/josephsenior/code-review-agent)
-**Multi-Agent Code Analysis System**
-- Specialized AI agents (Architect, Security, Performance, Style) collaborate to review code
-- LangChain multi-agent orchestration with structured output
-- Streamlit UI with detailed analysis reports
-- Production-ready with comprehensive error handling
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-**Tech Stack:** LangChain, OpenAI GPT-4, Streamlit, Python
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josephsenior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephsenior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-### ⚙️ [Task Automation Agent](https://github.com/josephsenior/task-automation-agent)
-**Intelligent Goal Decomposition & Execution System**
-- Breaks complex goals into actionable sub-tasks
-- Dynamic task planning with dependency resolution
-- Real-time progress tracking and execution
-- FastAPI backend with modern async architecture
+###
 
-**Tech Stack:** LangChain, FastAPI, SQLAlchemy, React
+<h2 align="left">🚀 Featured Projects</h2>
 
----
+###
 
-### 🔄 [LangGraph Workflow Orchestrator](https://github.com/josephsenior/langgraph-workflow-agent)
-**State Machine-Based Agent Workflows**
-- Complex multi-step workflows with state management
-- Conditional routing and error recovery
-- Chainlit UI for interactive agent interactions
-- Production patterns for workflow orchestration
+<div align="left">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔍 Code Review Agent</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/code-review-agent">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">Multi-agent code analysis system with specialized AI agents collaborating for comprehensive code reviews</p>
+        <p align="center"><strong>LangChain • OpenAI • Streamlit</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚙️ Task Automation Agent</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/task-automation-agent">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">Intelligent goal decomposition & execution system with dynamic task planning</p>
+        <p align="center"><strong>LangChain • FastAPI • React</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔄 LangGraph Workflow Orchestrator</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/langgraph-workflow-agent">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">State machine-based agent workflows with conditional routing and error recovery</p>
+        <p align="center"><strong>LangGraph • Chainlit • OpenAI</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🧪 Agent Evaluation Platform</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/agent-evaluation-platform">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">Comprehensive testing framework with A/B testing and performance benchmarking</p>
+        <p align="center"><strong>LangChain • Streamlit • Pytest</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💬 Multi-Agent Customer Support</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/multi-agent-customer-support">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">CrewAI-powered support system with intelligent ticket routing and escalation</p>
+        <p align="center"><strong>CrewAI • FastAPI • SQLAlchemy</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎬 Multi-Modal Content Analyzer</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/multimodal-content-analyzer">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">AI-powered platform for analyzing images, audio, and video content</p>
+        <p align="center"><strong>GPT-4V • Whisper • FastAPI</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📊 Agent Observability Platform</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/agent-observability-platform">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">Production monitoring system with real-time metrics, cost tracking, and LangSmith integration</p>
+        <p align="center"><strong>FastAPI • LangSmith • SQLAlchemy</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🔬 Multi-Agent Research Platform</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/research-platform">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">Collaborative research system with specialized agents and automatic citation generation</p>
+        <p align="center"><strong>LangChain • FAISS • Streamlit</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Tech Stack:** LangGraph, LangChain, Chainlit, OpenAI
+###
 
----
+<h2 align="left">💻 Tech Stack</h2>
 
-### 🧪 [Agent Evaluation & Testing Platform](https://github.com/josephsenior/agent-evaluation-platform)
-**Comprehensive Testing Framework for AI Agents**
-- Automated test suites with multiple evaluation metrics
-- A/B testing capabilities for agent variants
-- Performance benchmarking and regression testing
-- Streamlit dashboard for test results visualization
+###
 
-**Tech Stack:** LangChain, Streamlit, Pytest, SQLAlchemy
+<div align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="langchain" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="langgraph" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CrewAI-1C3C3C?style=for-the-badge&logo=python&logoColor=white" height="30" alt="crewai" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="openai" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GPT--4V-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="gpt4v" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="whisper" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="langsmith" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="streamlit" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Chainlit-1C3C3C?style=for-the-badge&logo=python&logoColor=white" height="30" alt="chainlit" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FAISS-1C3C3C?style=for-the-badge&logo=python&logoColor=white" height="30" alt="faiss" />
+</div>
 
----
+###
 
-### 💬 [Multi-Agent Customer Support System](https://github.com/josephsenior/multi-agent-customer-support)
-**Production Customer Support Platform**
-- CrewAI-powered multi-agent team (Support, Technical, Escalation, QA)
-- Intelligent ticket routing and escalation
-- FastAPI REST API with database persistence
-- Modern web interface with real-time updates
+<h2 align="left">🎯 What I Do</h2>
 
-**Tech Stack:** CrewAI, FastAPI, SQLAlchemy, HTML/CSS/JS
+###
 
----
+<div align="left">
+  • Building production-ready AI agent systems<br>
+  • Implementing multi-agent orchestration patterns<br>
+  • Creating comprehensive observability solutions<br>
+  • Developing testing frameworks for AI systems<br>
+  • Working with multi-modal AI (vision, audio, text)<br>
+  • Full-stack development from backend to UI
+</div>
 
-### 🎬 [Multi-Modal Content Analyzer](https://github.com/josephsenior/multimodal-content-analyzer)
-**AI-Powered Media Analysis Platform**
-- Image, audio, and video content analysis
-- GPT-4V vision capabilities + Whisper transcription
-- Automatic content moderation
-- FastAPI backend with modern minimalist UI
+###
 
-**Tech Stack:** GPT-4V, Whisper, FastAPI, OpenCV, MoviePy
+<div align="center">
+  <img src="https://raw.githubusercontent.com/josephsenior/josephsenior/output/snake.svg" alt="Snake animation" />
+</div>
 
----
+###
 
-### 📊 [Agent Observability Platform](https://github.com/josephsenior/agent-observability-platform)
-**Production Monitoring & Observability System**
-- Real-time metrics tracking (latency, tokens, costs)
-- LangSmith integration for comprehensive tracing
-- Automatic alerting and cost monitoring
-- Beautiful dashboards with historical analytics
-
-**Tech Stack:** FastAPI, LangSmith, SQLAlchemy, Chart.js
-
----
-
-### 🔬 [Multi-Agent Research Platform](https://github.com/josephsenior/research-platform)
-**Collaborative Research System**
-- Specialized agents (Researcher, Fact-Checker, Synthesizer, Evaluator)
-- RAG system with document upload and retrieval
-- Automatic citation generation and source tracking
-- Quality evaluation and scoring
-
-**Tech Stack:** LangChain, FAISS, Streamlit, Tavily API
-
----
-
-## 💻 Tech Stack
-
-**AI & ML Frameworks:**
-- LangChain, LangGraph, CrewAI
-- OpenAI GPT-4, GPT-4V, Whisper
-- Vector Databases (FAISS, Chroma)
-
-**Backend:**
-- FastAPI, Python 3.11+
-- SQLAlchemy, AsyncIO
-- RESTful APIs, WebSockets
-
-**Frontend:**
-- Streamlit, Chainlit
-- React, HTML/CSS/JavaScript
-- Modern UI/UX Design
-
-**DevOps & Observability:**
-- LangSmith, OpenTelemetry
-- Testing (Pytest, Unit/Integration Tests)
-- Docker, CI/CD
-
-**Databases:**
-- SQLite, PostgreSQL
-- Vector Stores (FAISS)
-
----
-
-## 🎯 Core Competencies
-
-- **Production AI Systems** - Building scalable, monitored, production-ready agent systems
-- **Multi-Agent Orchestration** - Coordinating specialized agents for complex tasks
-- **Observability & Monitoring** - Implementing comprehensive tracking and alerting
-- **Testing & Evaluation** - Creating robust testing frameworks for AI systems
-- **Multi-Modal AI** - Working with vision, audio, and text models
-- **Full-Stack Development** - End-to-end system development from backend to UI
-
----
-
-## 📈 What I'm Working On
-
-- Building production-ready AI agent systems
-- Exploring advanced agent orchestration patterns
-- Implementing comprehensive observability solutions
-- Creating reusable testing frameworks for AI systems
-
----
-
-## 📫 Let's Connect
-
-- **GitHub:** [@josephsenior](https://github.com/josephsenior)
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/yousef-mejdi-31732731a/)]
-- **Email:** yousefmejdi5inscription@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephsenior&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephsenior&layout=compact&theme=radical&hide_border=true)
-
----
-
-**Open to opportunities in AI Agent Engineering, LLM Systems Development, and Production AI roles.**
-
-⭐ *From [Tunisia]* | 💼 *Available for [Full-time/Contract/Consulting/Collaboration]*
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=josephsenior&icon=0&color=0" />
+</div>

@@ -148,7 +148,7 @@ Building production-ready AI agent systems with a focus on observability, testin
 
 - **GitHub:** [@josephsenior](https://github.com/josephsenior)
 - **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/yousef-mejdi-31732731a/)]
-- **Email:** [yousefmejdi5inscription@gmail.com]
+- **Email:** yousefmejdi5inscription@gmail.com
 
 ---
 

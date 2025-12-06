@@ -178,15 +178,3 @@
   • Working with multi-modal AI (vision, audio, text)<br>
   • Full-stack development from backend to UI
 </div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/josephsenior/josephsenior/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=josephsenior&icon=0&color=0" />
-</div>

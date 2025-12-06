@@ -178,3 +178,10 @@
   • Working with multi-modal AI (vision, audio, text)<br>
   • Full-stack development from backend to UI
 </div>
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josephsenior/josephsenior/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josephsenior/josephsenior/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/josephsenior/josephsenior/output/pacman-contribution-graph.svg">
+</picture>

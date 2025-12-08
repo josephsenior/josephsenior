@@ -36,10 +36,14 @@
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
+###
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
-<h2 align="left">🚀 Featured Projects</h2>
+<h2 align="left">Featured Projects</h2>
 
 ###
 
@@ -47,7 +51,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔍 Code Review Agent</h3>
+        <h3 align="center">Code Review Agent</h3>
         <div align="center">
           <a href="https://github.com/josephsenior/code-review-agent">
             <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
@@ -57,7 +61,7 @@
         <p align="center"><strong>LangChain • OpenAI • Streamlit</strong></p>
       </td>
       <td width="50%">
-        <h3 align="center">⚙️ Task Automation Agent</h3>
+        <h3 align="center">Task Automation Agent</h3>
         <div align="center">
           <a href="https://github.com/josephsenior/task-automation-agent">
             <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
@@ -69,7 +73,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🔄 LangGraph Workflow Orchestrator</h3>
+        <h3 align="center">LangGraph Workflow Orchestrator</h3>
         <div align="center">
           <a href="https://github.com/josephsenior/langgraph-workflow-agent">
             <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
@@ -79,7 +83,7 @@
         <p align="center"><strong>LangGraph • Chainlit • OpenAI</strong></p>
       </td>
       <td width="50%">
-        <h3 align="center">🧪 Agent Evaluation Platform</h3>
+        <h3 align="center">Agent Evaluation Platform</h3>
         <div align="center">
           <a href="https://github.com/josephsenior/agent-evaluation-platform">
             <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
@@ -91,7 +95,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">💬 Multi-Agent Customer Support</h3>
+        <h3 align="center">Multi-Agent Customer Support</h3>
         <div align="center">
           <a href="https://github.com/josephsenior/multi-agent-customer-support">
             <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
@@ -101,7 +105,7 @@
         <p align="center"><strong>CrewAI • FastAPI • SQLAlchemy</strong></p>
       </td>
       <td width="50%">
-        <h3 align="center">🎬 Multi-Modal Content Analyzer</h3>
+        <h3 align="center">Multi-Modal Content Analyzer</h3>
         <div align="center">
           <a href="https://github.com/josephsenior/multimodal-content-analyzer">
             <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
@@ -113,7 +117,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">📊 Agent Observability Platform</h3>
+        <h3 align="center">Agent Observability Platform</h3>
         <div align="center">
           <a href="https://github.com/josephsenior/agent-observability-platform">
             <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
@@ -123,7 +127,7 @@
         <p align="center"><strong>FastAPI • LangSmith • SQLAlchemy</strong></p>
       </td>
       <td width="50%">
-        <h3 align="center">🔬 Multi-Agent Research Platform</h3>
+        <h3 align="center">Multi-Agent Research Platform</h3>
         <div align="center">
           <a href="https://github.com/josephsenior/research-platform">
             <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
@@ -138,7 +142,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -166,7 +170,7 @@
 
 ###
 
-<h2 align="left">🎯 What I Do</h2>
+<h2 align="left">What I Do</h2>
 
 ###
 

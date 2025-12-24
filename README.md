@@ -181,6 +181,28 @@
         <p align="center"><strong>Python • LangChain • Best Practices</strong></p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔗 AI Agent Integration Hub</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/ai-agent-integration-hub">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">Production-ready platform connecting AI agents to Slack, Discord, Email, and Webhooks with unified API gateway</p>
+        <p align="center"><strong>FastAPI • WebSocket • Redis • LangChain</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 Distributed Multi-Agent Platform</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/distributed-multi-agent-platform">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">Scalable distributed multi-agent communication platform with AutoGen, intelligent routing, and ChromaDB</p>
+        <p align="center"><strong>AutoGen • FastAPI • ChromaDB • Redis</strong></p>
+      </td>
+    </tr>
   </table>
 </div>
 

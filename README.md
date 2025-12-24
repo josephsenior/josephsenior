@@ -203,6 +203,18 @@
         <p align="center"><strong>AutoGen • FastAPI • ChromaDB • Redis</strong></p>
       </td>
     </tr>
+    <tr>
+      <td width="100%" colspan="2">
+        <h3 align="center">🏥 ZytoFlow Healthcare Management</h3>
+        <div align="center">
+          <a href="https://github.com/josephsenior/zytoflow-healthcare-management">
+            <img src="https://img.shields.io/badge/Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+          </a>
+        </div>
+        <p align="center">Complete healthcare management system with Power BI dashboards, role-based access control, patient tracking, and real-time analytics</p>
+        <p align="center"><strong>Django • Power BI • Bootstrap • SQLite • 📊 Includes Video Demo</strong></p>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -227,6 +239,8 @@
   <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stabilityai&logoColor=white" height="30" alt="stable-diffusion" />
   <img width="12" />
   <img src="https://img.shields.io/badge/FAISS-1C3C3C?style=for-the-badge&logo=python&logoColor=white" height="30" alt="faiss" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="powerbi" />
 </div>
 
 ###
@@ -251,6 +265,8 @@
 <div align="left">
   <h3>⚡ Backend & APIs</h3>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="30" alt="fastapi" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30" alt="django" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" alt="streamlit" />
   <img width="12" />
@@ -280,7 +296,8 @@
 
 <div align="left">
   • 🏗️ Building production-ready AI agent systems and multi-agent orchestration<br>
-  • 🎨 Developing computer vision & generative AI solutions (Stable Diffusion, Vision Transformers)<br>
+  • � Developing healthcare management systems with Power BI analytics<br>
+  • �🎨 Developing computer vision & generative AI solutions (Stable Diffusion, Vision Transformers)<br>
   • 🔍 Creating comprehensive RAG systems with multi-tenant architecture<br>
   • 📊 Implementing observability & evaluation frameworks for AI systems<br>
   • 🤖 Working with multi-modal AI (vision, audio, text, 3D)<br>

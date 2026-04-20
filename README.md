@@ -158,12 +158,6 @@ Production-grade reliability stack for LLM applications: token/latency/cost obse
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josephsenior&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josephsenior/josephsenior/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josephsenior/josephsenior/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/josephsenior/josephsenior/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 
 <p align="center">

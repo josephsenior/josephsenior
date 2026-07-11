@@ -1,165 +1,96 @@
-<h1 align="center">Hey 👋 I'm Youssef</h1>
+<h1 align="center">Youssef Mejdi</h1>
 
-<h3 align="center">AI Engineer · LLM Systems · Multi-Agent Orchestration</h3>
+<h3 align="center">AI Engineering · Autonomous Agents · Developer Tools</h3>
 
 <p align="center">
-  Building production-ready LLM systems — RAG pipelines, agent orchestration, and reliability tooling.<br>
-  Currently studying <b>AI Engineering</b> at <b>ESPRIT, Tunis</b> · Expected 2027
+  AI Engineering student at <b>ESPRIT</b> and <b>Agentic AI Intern at Sofrecom Tunisia</b>.<br>
+  I build local-first autonomous agents, reliable LLM execution systems, and developer tooling.<br>
+  <b>Seeking a 26-week final-year engineering internship starting in early 2027.</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousef-mejdi-31732731a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yousefmejdi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/josephsenior">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <!-- Replace with your hosted CV URL -->
-  <a href="https://github.com/josephsenior/josephsenior/blob/main/cv.pdf">
-    <img src="https://img.shields.io/badge/Download_CV-1A377D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="cv" />
+  <a href="https://github.com/josephsenior/Grinta-Coding-Agent">
+    <img src="https://img.shields.io/badge/Grinta-5BB318?style=for-the-badge&logo=github&logoColor=white" alt="Grinta" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to-AI_Engineer_Internship-2ea44f?style=for-the-badge" alt="open to work" />
-  <img src="https://img.shields.io/badge/Location-Tunisia_/_Remote_EU-blue?style=for-the-badge" alt="location" />
-</p>
+---
+
+## Featured work
+
+### Grinta — local-first autonomous coding agent runtime
+
+**Python · Asyncio · LLM Agents · LSP · DAP · DevTools**
+
+[Grinta](https://github.com/josephsenior/Grinta-Coding-Agent) is the project I have spent most of my engineering time on: a terminal coding-agent runtime designed for long-horizon repository work.
+
+- Plans, edits, executes commands, observes results, validates outcomes, and finishes tasks through a structured agent loop.
+- Uses an event-stream ledger, checkpointing, replay/recovery, context compaction, stuck-loop detection, and validation-gated completion.
+- Supports OpenAI-compatible APIs, Anthropic, Google/Gemini, OpenRouter, Ollama, and LM Studio through a provider-agnostic inference layer.
+- Integrates local Language Servers and Debug Adapters for code navigation and interactive debugging.
+- Ships as a public release candidate with cross-platform CI and a documented architecture, security boundary, and contributor workflow.
+
+**Repository:** [josephsenior/Grinta-Coding-Agent](https://github.com/josephsenior/Grinta-Coding-Agent)
 
 ---
 
-## 🚀 Featured Work
+### BluePrinta — multi-agent SDLC planning and UI generation
 
-> My top three projects — each demonstrates a core competency for production AI engineering.
+**Next.js · TypeScript · Zod · Gemini · SSE**
 
-### 🌐 Distributed Multi-Agent Platform & Ecosystem
-**Stack:** LangGraph · FastAPI · Redis · WebSockets · AutoGen · ChromaDB
+[BluePrinta](https://github.com/josephsenior/BluePrinta) coordinates seven specialized AI roles across product planning, architecture, infrastructure, security, UI/UX, implementation, and QA.
 
-A horizontally scalable multi-agent platform with real-time coordination via Redis Pub/Sub, LangGraph state-machine workflows, and a unified integration hub for Slack/Discord/Email.
+- Converts structured agent outputs into interactive React interfaces.
+- Uses schema validation and targeted JSON Patch-style refinement instead of regenerating complete artifacts.
+- Streams long-running generation state with Server-Sent Events and uses Gemini context caching to reduce repeated prompt overhead.
 
-- 🔗 [Platform](https://github.com/josephsenior/distributed-multi-agent-platform) · [Orchestrator](https://github.com/josephsenior/langgraph-workflow-orchestrator) · [Integration Hub](https://github.com/josephsenior/ai-agent-integration-hub)
-- 🎥 *Demo coming soon*
-
----
-
-### 🏦 SFDR Compliance Validator — Enterprise RAG
-**Stack:** Python · LlamaIndex · Pinecone · LLMs · RAG
-**Partnership:** [![ODDO BHF](https://img.shields.io/badge/Partnership-ODDO_BHF-0055A4?style=flat-square)](https://www.oddo-bhf.com)
-
-RAG-based ESG compliance engine for ODDO BHF that extracts and validates SFDR regulatory indicators from financial PDFs. Paired with a secure multi-tenant enterprise knowledge base for large-scale unstructured document search.
-
-- 🔗 [SFDR Validator](https://github.com/josephsenior/academic-advanced-AI-project-SFDR-compliance-validator) · [Enterprise KB](https://github.com/josephsenior/llamaindex-enterprise-knowledge-base)
-- 🎥 *Demo coming soon*
+**Repository:** [josephsenior/BluePrinta](https://github.com/josephsenior/BluePrinta)
 
 ---
 
-### 🛠️ AgentOps & Reliability Suite
-**Stack:** LangSmith · Pytest · LLM-as-a-Judge · FastAPI
+### Agentic Design Patterns — 21 runnable agent design references
 
-Production-grade reliability stack for LLM applications: token/latency/cost observability, automated LLM-as-a-Judge evaluation pipelines, and a multi-agent code review system for security, performance, and style analysis.
+**Python · LLM Architecture · Tool Use · MCP · Evaluation**
 
-- 🔗 [Observability](https://github.com/josephsenior/agent-observability-platform) · [Evaluation](https://github.com/josephsenior/agent-evaluation-platform) · [Code Review](https://github.com/josephsenior/code_review_agent)
-- 🎥 *Demo coming soon*
+[Agentic Design Patterns](https://github.com/josephsenior/Agentic-Design-Patterns) is a clean-room reference library covering 21 agent workflow primitives, including routing, planning, reflection, tool use, multi-agent coordination, memory, MCP, guardrails, and evaluation.
 
----
-
-## 📂 More Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 A2UI Builder</h4>
-      <p>AI-powered UI generator converting natural language into React components via Google's A2UI protocol.</p>
-      <p><sub><b>Next.js · Gemini · shadcn/ui</b></sub></p>
-      <a href="https://github.com/josephsenior/a2ui-builder">→ Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Agentic Design Patterns</h4>
-      <p>Open-source library of 21 agentic AI design patterns (ReAct, Plan-and-Solve, etc.) as reusable references.</p>
-      <p><sub><b>Python · LangChain</b></sub></p>
-      <a href="https://github.com/josephsenior/Agentic-Design-Patterns">→ Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🖼️ Cultural Heritage AI Platform</h4>
-      <p>6-module AI ecosystem: art authentication (<b>91% accuracy</b>), generation, restoration, 2D→3D, and RAG Q&A.</p>
-      <p><sub><b>PyTorch · Stable Diffusion XL · Vision Transformers</b></sub></p>
-      <a href="https://github.com/josephsenior/-cultural-heritage-ai-platform">→ Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔍 Multi-Modal Content Analyzer</h4>
-      <p>Platform for analyzing images, audio, and video with automatic moderation.</p>
-      <p><sub><b>GPT-4V · Whisper · FastAPI</b></sub></p>
-      <a href="https://github.com/josephsenior/multimodal-content-analyzer">→ Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>👥 Multi-Agent Customer Support</h4>
-      <p>CrewAI-based support system with ticket routing, escalation, and QA agents.</p>
-      <p><sub><b>CrewAI · FastAPI · SQLAlchemy</b></sub></p>
-      <a href="https://github.com/josephsenior/multi-agent-customer-support">→ Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 Multi-Agent Research Platform</h4>
-      <p>Collaborative research system with RAG, web search, fact-checking, and citation generation.</p>
-      <p><sub><b>LangChain · FAISS · Streamlit</b></sub></p>
-      <a href="https://github.com/josephsenior/Multi-Agent-Research-Platform">→ Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 Task Automation Agent</h4>
-      <p>Autonomous goal decomposition and adaptive task execution.</p>
-      <p><sub><b>LangChain · OpenAI · Streamlit</b></sub></p>
-      <a href="https://github.com/josephsenior/intelligent-task-automation-agent">→ Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏥 ZytoFlow Healthcare System</h4>
-      <p>Full-stack clinic management with RBAC and Power BI analytics. <b>📹 Includes video demo.</b></p>
-      <p><sub><b>Django · Power BI · SQLite</b></sub></p>
-      <a href="https://github.com/josephsenior/zytoflow-healthcare-management">→ Repo</a>
-    </td>
-  </tr>
-</table>
+**Repository:** [josephsenior/Agentic-Design-Patterns](https://github.com/josephsenior/Agentic-Design-Patterns)
 
 ---
 
-## 🛠️ Tech Stack
+### SFDR compliance validator and enterprise retrieval
 
-**AI & Agents:** LangChain · LangGraph · AutoGen · CrewAI · LlamaIndex · RAG · Prompt Engineering · LLM Evaluation · AgentOps · Observability · Embeddings
-**Vector DBs:** Pinecone · ChromaDB · FAISS
-**Models:** OpenAI (GPT-4 / GPT-4V) · Gemini · Whisper · Stable Diffusion XL · Vision Transformers
-**Backend:** Python · FastAPI · Django · Redis · SQL · SQLAlchemy · Streamlit · Chainlit
-**MLOps:** Docker · Git · LangSmith · Pytest · CI/CD
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · Power BI
-**Languages:** English (Fluent) · French (Fluent) · Arabic (Native)
+**RAG · LlamaIndex · Pinecone · Regulatory AI**
+
+Built a compliance parsing workflow for financial documents that extracts ESG-related data patterns and checks them against Sustainable Finance Disclosure Regulation requirements, paired with enterprise retrieval workflows for unstructured knowledge-base queries.
+
+**Repository:** [SFDR Compliance Validator](https://github.com/josephsenior/academic-advanced-AI-project-SFDR-compliance-validator)
 
 ---
 
-## 💼 What I Do
+## Current focus
 
-- 🏗️ Design and ship **production-ready AI agent systems** and multi-agent orchestration
-- 🔍 Build **enterprise RAG** with multi-tenant architecture and intelligent routing
-- 📊 Implement **observability + evaluation** pipelines for LLM reliability
-- 🤖 Work across **multi-modal AI** (vision, audio, text)
-- 🎯 Deliver **full-stack** from backend APIs to modern UIs
-- 🏛️ Previously: cultural-heritage AI and healthcare systems with analytics
+- Reliable long-horizon execution for autonomous software agents
+- Tool calling, code navigation, debugging, and validation loops
+- Context management and durable agent state
+- Agent evaluation, observability, and completion integrity
+- Controlled agentic workflows for enterprise data systems
 
----
+## Selected stack
 
-## 📈 GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephsenior&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josephsenior&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages" />
-</div>
+**Agents & LLM systems:** Tool Calling · MCP · ReAct · Planning · Context Management · LLM Evaluation · LangGraph · LlamaIndex  
+**Backend & infrastructure:** Python · Asyncio · Subprocess Runtimes · Docker · Redis · SQLite · PostgreSQL · REST · SSE · WebSockets  
+**Software engineering:** TypeScript · React · Next.js · Java · Spring Boot · SQL · Git  
+**Languages:** Arabic (Native) · English (Fluent) · French (Fluent)
 
 ---
 
 <p align="center">
-  <sub>💬 Open to AI Engineer Internship opportunities · Tunisia / Remote EU · Available immediately</sub>
+  <b>Open to final-year internships in AI agents, LLM infrastructure, developer tools, and applied software engineering.</b>
 </p>

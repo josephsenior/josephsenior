@@ -29,7 +29,7 @@ Plans, edits, executes commands, observes failures, and validates outcomes auton
 Persists an event ledger with checkpoints, replay, and durable recovery.
 Integrates local LSP and DAP tooling for code navigation and debugging.
 
-`v1.0.0-rc1` · 1,600+ commits · 22 ★ · 2 forks · PyPI / Homebrew / Scoop / Docker · 39/39 tests passing
+`v1.0.0` · 4h33 autonomous run · 16,393 recorded events · Raft case study: 39/39 tests · PyPI / Docker
 
 ### [Agentic Design Patterns](https://github.com/josephsenior/Agentic-Design-Patterns)
 21 runnable Python implementations covering planning, reflection, tool use,

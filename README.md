@@ -15,7 +15,7 @@
   <a href="https://github.com/josephsenior/Grinta-Coding-Agent">Flagship project</a>
 </p>
 
-## Featured work
+## Flagship
 
 ### [Grinta — local-first autonomous coding agent](https://github.com/josephsenior/Grinta-Coding-Agent)
 
@@ -30,11 +30,51 @@ My main project: a provider-agnostic terminal agent for long-running repository 
 **Python · Asyncio · LLM agents · LSP · DAP · CI/CD**
 [Quick start](https://github.com/josephsenior/Grinta-Coding-Agent/blob/main/docs/QUICK_START.md) · [Architecture](https://github.com/josephsenior/Grinta-Coding-Agent/blob/main/docs/ARCHITECTURE.md) · [Demo file](https://github.com/josephsenior/Grinta-Coding-Agent/blob/main/docs/assets/grinta-demo.mp4)
 
+## Developer tools & agent infrastructure
+
+The reusable systems components behind reliable developer-facing AI.
+
+### [Fast Indexer — code search infrastructure](https://github.com/josephsenior/Fast-Indexer)
+
+A Rust CLI that builds trigram indexes for sub-millisecond substring search across codebases—an intentionally small, performance-oriented building block for code intelligence.
+
+**Rust · CLI · trigram indexing · code search**
+
+### [Public APIs MCP Server — agent integration infrastructure](https://github.com/josephsenior/public-apis-mcp-server)
+
+An MCP server that lets AI agents search, probe, and generate integration snippets for 1,500+ public APIs.
+
+**TypeScript · MCP · tool calling · API integrations**
+
+### [Agent Evaluation Platform — quality and regression controls](https://github.com/josephsenior/agent-evaluation-platform)
+
+A reference platform for evaluating agent behaviour with multi-provider LLM-as-a-judge scoring, regression suites, A/B benchmarks, and safety checks.
+
+**Python · evaluation · benchmarking · Docker · pytest**
+
+## Agent systems & platforms
+
+End-to-end applications where agent workflows become useful, inspectable products.
+
 ### [BluePrinta — multi-agent SDLC planning](https://github.com/josephsenior/BluePrinta)
 
 A full-stack application coordinating specialized AI roles across product planning, architecture, infrastructure, security, UI/UX, implementation, and QA. Model outputs are validated as structured artifacts that can be rendered, refined, streamed, persisted, and exported.
 
 **Next.js · TypeScript · Zod · Gemini · SSE · Prisma**
+
+### [SFDR Compliance Validator — document intelligence for finance](https://github.com/josephsenior/academic-advanced-AI-project-SFDR-compliance-validator)
+
+An applied document-analysis system that extracts ESG information from financial files and checks it against SFDR requirements, data consistency, chart accuracy, and disclosure wording.
+
+**Python · TypeScript · document processing · regulatory AI · Next.js**
+
+### [Multi-Agent Research Platform — cited research workflows](https://github.com/josephsenior/multi-agent-research-platform)
+
+A research system combining retrieval, web search, fact-checking, and synthesis to produce cited reports through coordinated agents.
+
+**Python · RAG · FAISS · web research · multi-agent systems**
+
+## Research & reference implementations
 
 ### [Agentic Design Patterns — 21 runnable references](https://github.com/josephsenior/Agentic-Design-Patterns)
 
@@ -42,11 +82,15 @@ An educational reference library covering routing, planning, reflection, tool us
 
 **Python · LLM architecture · tool use · MCP · evaluation**
 
-### [SFDR compliance validator](https://github.com/josephsenior/academic-advanced-AI-project-SFDR-compliance-validator)
+### [LangGraph Workflow Orchestrator — durable workflow patterns](https://github.com/josephsenior/langgraph-workflow-orchestrator)
 
-An academic document-analysis project that extracts ESG-related information from financial documents and checks it against Sustainable Finance Disclosure Regulation requirements.
+Runnable workflow examples covering conditional routing, parallel execution, human approvals, iterative refinement, and checkpoint recovery.
 
-**Python · document processing · regulatory AI · Next.js**
+**Python · LangGraph · state machines · checkpointing**
+
+## Open-source engagement
+
+I maintain a small set of focused forks and study upstream agent frameworks—including [OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk) and [PydanticAI](https://github.com/pydantic/pydantic-ai)—to understand their architectures and contribute practical learnings back into my own systems.
 
 ## Current focus
 

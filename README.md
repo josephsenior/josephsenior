@@ -30,12 +30,17 @@ Provider-agnostic terminal agent for long-running repository work. Grinta plans,
 
 **Evidence:** v1.0.0 · 4 h 33 min autonomous run · 16,393 recorded events · Raft case study: 39/39 tests · PyPI · Docker
 
-## Agent infrastructure
+## Developer tools & agent infrastructure
+
+Reusable building blocks for safe, observable, developer-facing AI.
 
 - [**ShadowGit**](https://github.com/josephsenior/ShadowGit) — Git-backed filesystem checkpoints with safe restore and recovery for coding agents and automation.
 - [**RunBound**](https://github.com/josephsenior/RunBound) — cross-platform bounded subprocess execution with timeouts, output limits, process-tree cleanup, and health checks.
 - [**SyntaxGate**](https://github.com/josephsenior/SyntaxGate) — code-safety guardrails for reliable editing workflows.
 - [**AgentGuard**](https://github.com/josephsenior/AgentGuard) — focused safety controls for agent execution.
+- [**Fast Indexer**](https://github.com/josephsenior/Fast-Indexer) — Rust trigram indexer for sub-millisecond substring search in large codebases.
+- [**Public APIs MCP Server**](https://github.com/josephsenior/public-apis-mcp-server) — lets AI agents search, probe, and generate integration snippets for 1,500+ public APIs.
+- [**Agent Evaluation Platform**](https://github.com/josephsenior/agent-evaluation-platform) — multi-provider LLM-as-a-judge scoring, regression suites, A/B benchmarks, and safety checks.
 
 ## Open-source engineering
 
@@ -49,11 +54,18 @@ Contributing upstream to [OpenHands / software-agent-sdk](https://github.com/Ope
 
 **Ecosystem:** contributing Grinta to MCP, coding-agent, Python, and TUI community indexes; maintaining upstream forks while pull requests are under review.
 
-## Selected projects
+## Agent systems & platforms
+
+End-to-end applications where agent workflows become useful, inspectable products.
+
+- [**BluePrinta**](https://github.com/josephsenior/BluePrinta) — full-stack multi-agent SDLC workspace built with Next.js, TypeScript, Zod, SSE, Prisma, and Gemini.
+- [**SFDR Compliance Validator**](https://github.com/josephsenior/academic-advanced-AI-project-SFDR-compliance-validator) — document intelligence for financial files: ESG extraction, SFDR checks, data consistency, chart accuracy, and disclosure wording.
+- [**Multi-Agent Research Platform**](https://github.com/josephsenior/multi-agent-research-platform) — coordinated retrieval, web research, fact-checking, and synthesis for cited reports.
+
+## Research & reference implementations
 
 - [**Agentic Design Patterns**](https://github.com/josephsenior/Agentic-Design-Patterns) — 21 runnable Python implementations covering planning, reflection, tools, RAG, memory, evaluation, multi-agent coordination, MCP, and human-in-the-loop workflows.
-- [**BluePrinta**](https://github.com/josephsenior/BluePrinta) — full-stack multi-agent SDLC workspace built with Next.js, TypeScript, Zod, SSE, Prisma, and Gemini.
-- [**Fast Indexer**](https://github.com/josephsenior/Fast-Indexer) — Rust trigram indexer for sub-millisecond substring search in large codebases.
+- [**LangGraph Workflow Orchestrator**](https://github.com/josephsenior/langgraph-workflow-orchestrator) — examples for conditional routing, parallel execution, approvals, iterative refinement, and checkpoint recovery.
 
 ---
 

@@ -1,123 +1,76 @@
 <h1 align="center">Youssef Mejdi</h1>
 
 <p align="center">
-  <strong>AI engineering · autonomous agents · developer tools</strong><br>
-  Building reliable LLM systems that plan, execute, recover, and validate their work.
+  AI engineer building reliable autonomous agents and developer infrastructure.<br>
+  Creator of <a href="https://github.com/josephsenior/Grinta-Coding-Agent">Grinta</a> — a local-first autonomous coding agent for long-running software-engineering work, recovery, validation, and inspectable execution.
 </p>
 
 <p align="center">
-  Agentic AI Intern at <strong>Sofrecom Tunisia</strong> · AI Engineering student at <strong>ESPRIT</strong> · Graduating in 2027
-</p>
-
-<p align="center">
+  <a href="https://github.com/josephsenior/Grinta-Coding-Agent">Grinta</a> ·
+  <a href="https://github.com/josephsenior/Grinta-Coding-Agent/blob/main/docs/assets/grinta-demo.mp4">Demo</a> ·
   <a href="https://www.linkedin.com/in/yousef-mejdi-31732731a">LinkedIn</a> ·
-  <a href="mailto:yousefmejdi@gmail.com">Email</a> ·
-  <a href="https://github.com/josephsenior/Grinta-Coding-Agent">Flagship project</a>
+  <a href="mailto:yousefmejdi@gmail.com">Email</a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/josephsenior/Grinta-Coding-Agent">
+    <img src="https://raw.githubusercontent.com/josephsenior/Grinta-Coding-Agent/main/docs/assets/social-preview.png" width="720" alt="Grinta — reliable autonomous coding agent" />
+  </a>
+</p>
+
+> **4 h 33 min** autonomous execution · **16,393** recorded events · durable recovery · validation-gated completion
+
+---
 
 ## Flagship
 
 ### [Grinta — local-first autonomous coding agent](https://github.com/josephsenior/Grinta-Coding-Agent)
 
-My main project: a provider-agnostic terminal agent for long-running repository work.
+Provider-agnostic terminal agent for long-running repository work. Grinta plans, edits, executes commands, observes failures, and validates outcomes autonomously, with an event ledger, checkpoints, replay, and durable recovery. It integrates local LSP and DAP tooling for code navigation and debugging.
 
-- Plans, edits, executes commands, observes failures, and validates outcomes
-- Persists an event ledger with checkpoints, replay, and recovery
-- Integrates local LSP and DAP tooling for navigation and debugging
-- Supports OpenAI-compatible APIs, Anthropic, Gemini, OpenRouter, Ollama, and LM Studio
-- Includes cross-platform tests, security checks, contributor documentation, and architecture notes
-
-**Python · Asyncio · LLM agents · LSP · DAP · CI/CD**
-[Quick start](https://github.com/josephsenior/Grinta-Coding-Agent/blob/main/docs/QUICK_START.md) · [Architecture](https://github.com/josephsenior/Grinta-Coding-Agent/blob/main/docs/ARCHITECTURE.md) · [Demo file](https://github.com/josephsenior/Grinta-Coding-Agent/blob/main/docs/assets/grinta-demo.mp4)
+**Evidence:** v1.0.0 · 4 h 33 min autonomous run · 16,393 recorded events · Raft case study: 39/39 tests · PyPI · Docker
 
 ## Developer tools & agent infrastructure
 
-The reusable systems components behind reliable developer-facing AI.
+Reusable building blocks for safe, observable, developer-facing AI.
 
-### [Fast Indexer — code search infrastructure](https://github.com/josephsenior/Fast-Indexer)
+- [**ShadowGit**](https://github.com/josephsenior/ShadowGit) — Git-backed filesystem checkpoints with safe restore and recovery for coding agents and automation.
+- [**RunBound**](https://github.com/josephsenior/RunBound) — cross-platform bounded subprocess execution with timeouts, output limits, process-tree cleanup, and health checks.
+- [**SyntaxGate**](https://github.com/josephsenior/SyntaxGate) — code-safety guardrails for reliable editing workflows.
+- [**AgentGuard**](https://github.com/josephsenior/AgentGuard) — focused safety controls for agent execution.
+- [**Fast Indexer**](https://github.com/josephsenior/Fast-Indexer) — Rust trigram indexer for sub-millisecond substring search in large codebases.
+- [**Public APIs MCP Server**](https://github.com/josephsenior/public-apis-mcp-server) — lets AI agents search, probe, and generate integration snippets for 1,500+ public APIs.
+- [**Agent Evaluation Platform**](https://github.com/josephsenior/agent-evaluation-platform) — multi-provider LLM-as-a-judge scoring, regression suites, A/B benchmarks, and safety checks.
 
-A Rust CLI that builds trigram indexes for sub-millisecond substring search across codebases—an intentionally small, performance-oriented building block for code intelligence.
+## Open-source engineering
 
-**Rust · CLI · trigram indexing · code search**
+Contributing upstream to [OpenHands / software-agent-sdk](https://github.com/OpenHands/software-agent-sdk):
 
-### [Public APIs MCP Server — agent integration infrastructure](https://github.com/josephsenior/public-apis-mcp-server)
+- [#4132](https://github.com/OpenHands/software-agent-sdk/pull/4132) — skip unauthenticated managed-proxy model-info lookup.
+- [#4134](https://github.com/OpenHands/software-agent-sdk/pull/4134) — retry empty synchronous and asynchronous LLM streams.
+- [#4136](https://github.com/OpenHands/software-agent-sdk/pull/4136) — bound async state-update publishing for stalled subscribers.
 
-An MCP server that lets AI agents search, probe, and generate integration snippets for 1,500+ public APIs.
+*Current status: #4132 is open; #4134 and #4136 are drafts.*
 
-**TypeScript · MCP · tool calling · API integrations**
-
-### [Agent Evaluation Platform — quality and regression controls](https://github.com/josephsenior/agent-evaluation-platform)
-
-A reference platform for evaluating agent behaviour with multi-provider LLM-as-a-judge scoring, regression suites, A/B benchmarks, and safety checks.
-
-**Python · evaluation · benchmarking · Docker · pytest**
+**Ecosystem:** contributing Grinta to MCP, coding-agent, Python, and TUI community indexes; maintaining upstream forks while pull requests are under review.
 
 ## Agent systems & platforms
 
 End-to-end applications where agent workflows become useful, inspectable products.
 
-### [BluePrinta — multi-agent SDLC planning](https://github.com/josephsenior/BluePrinta)
-
-A full-stack application coordinating specialized AI roles across product planning, architecture, infrastructure, security, UI/UX, implementation, and QA. Model outputs are validated as structured artifacts that can be rendered, refined, streamed, persisted, and exported.
-
-**Next.js · TypeScript · Zod · Gemini · SSE · Prisma**
-
-### [SFDR Compliance Validator — document intelligence for finance](https://github.com/josephsenior/academic-advanced-AI-project-SFDR-compliance-validator)
-
-An applied document-analysis system that extracts ESG information from financial files and checks it against SFDR requirements, data consistency, chart accuracy, and disclosure wording.
-
-**Python · TypeScript · document processing · regulatory AI · Next.js**
-
-### [Multi-Agent Research Platform — cited research workflows](https://github.com/josephsenior/multi-agent-research-platform)
-
-A research system combining retrieval, web search, fact-checking, and synthesis to produce cited reports through coordinated agents.
-
-**Python · RAG · FAISS · web research · multi-agent systems**
+- [**BluePrinta**](https://github.com/josephsenior/BluePrinta) — full-stack multi-agent SDLC workspace built with Next.js, TypeScript, Zod, SSE, Prisma, and Gemini.
+- [**SFDR Compliance Validator**](https://github.com/josephsenior/academic-advanced-AI-project-SFDR-compliance-validator) — document intelligence for financial files: ESG extraction, SFDR checks, data consistency, chart accuracy, and disclosure wording.
+- [**Multi-Agent Research Platform**](https://github.com/josephsenior/multi-agent-research-platform) — coordinated retrieval, web research, fact-checking, and synthesis for cited reports.
 
 ## Research & reference implementations
 
-### [Agentic Design Patterns — 21 runnable references](https://github.com/josephsenior/Agentic-Design-Patterns)
-
-An educational reference library covering routing, planning, reflection, tool use, memory, RAG, multi-agent coordination, guardrails, evaluation, and other common agent workflow patterns.
-
-**Python · LLM architecture · tool use · MCP · evaluation**
-
-### [LangGraph Workflow Orchestrator — durable workflow patterns](https://github.com/josephsenior/langgraph-workflow-orchestrator)
-
-Runnable workflow examples covering conditional routing, parallel execution, human approvals, iterative refinement, and checkpoint recovery.
-
-**Python · LangGraph · state machines · checkpointing**
-
-## Open-source engagement
-
-I maintain a small set of focused forks and study upstream agent frameworks—including [OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk) and [PydanticAI](https://github.com/pydantic/pydantic-ai)—to understand their architectures and contribute practical learnings back into my own systems.
-
-## Current focus
-
-At Sofrecom Tunisia, I work on agentic data-reliability workflows: deterministic extraction, semantic alignment, schema-drift detection, controlled ETL repair, sandboxed Python and SQL execution, confidence thresholds, and validation-oriented control flows.
-
-Outside work, I am focused on:
-
-- Reliable autonomous-agent runtimes with explicit state and recovery
-- Developer tooling for code navigation, execution, and debugging
-- Agent evaluation, observability, and completion integrity
-- Practical enterprise AI using retrieval, OCR, and controlled automation
-
-## Engineering toolbox
-
-| Area | Technologies |
-|---|---|
-| Agent systems | Tool calling, MCP, ReAct, LangGraph, LlamaIndex, RAG, evaluation, observability |
-| Backend | Python, Asyncio, FastAPI, Redis, PostgreSQL, SQLite, REST, SSE, WebSockets |
-| Frontend | TypeScript, React, Next.js, Tailwind CSS |
-| Data and AI | Vector search, Pinecone, ChromaDB, FAISS, OCR, anomaly detection, multimodal AI |
-| Delivery | GitHub Actions, Docker, automated tests, security scanning |
-
-Languages: Arabic (native), English (fluent), French (fluent).
+- [**Agentic Design Patterns**](https://github.com/josephsenior/Agentic-Design-Patterns) — 21 runnable Python implementations covering planning, reflection, tools, RAG, memory, evaluation, multi-agent coordination, MCP, and human-in-the-loop workflows.
+- [**LangGraph Workflow Orchestrator**](https://github.com/josephsenior/langgraph-workflow-orchestrator) — examples for conditional routing, parallel execution, approvals, iterative refinement, and checkpoint recovery.
 
 ---
 
-<p align="center">
-  <strong>Open to a 26-week final-year engineering internship starting in early 2027.</strong><br>
-  AI agents · LLM infrastructure · developer tools · applied software engineering
-</p>
+**Technical focus:** autonomous software engineering · agent reliability · evaluation · developer tools
+
+**Stack:** Python · TypeScript · Rust · Next.js · FastAPI · Asyncio · Docker
+
+AI Engineering @ **ESPRIT** · Graduating 2027
